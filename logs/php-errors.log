@@ -1,0 +1,8 @@
+[18-Mar-2026 23:55:46 UTC] PHP Deprecated:  Constant E_STRICT is deprecated since 8.4, the error level was removed in C:\Users\RZHPDST\Downloads\reseller-website\includes\error-handler.php on line 63
+[2026-03-18 23:55:46] WARNING: Undefined variable $baseUrl in C:\Users\RZHPDST\Downloads\reseller-website\includes\header.php on line 17 (URL: /upgrade.php, Method: GET, IP: ::1)
+[18-Mar-2026 23:55:46 UTC] PHP Deprecated:  Constant E_STRICT is deprecated since 8.4, the error level was removed in C:\Users\RZHPDST\Downloads\reseller-website\includes\error-handler.php on line 63
+[2026-03-18 23:55:46] WARNING: Undefined array key "QUERY_STRING" in C:\Users\RZHPDST\Downloads\reseller-website\includes\header.php on line 17 (URL: /upgrade.php, Method: GET, IP: ::1)
+[18-Mar-2026 23:56:07 UTC] PHP Deprecated:  Constant E_STRICT is deprecated since 8.4, the error level was removed in C:\Users\RZHPDST\Downloads\reseller-website\includes\error-handler.php on line 63
+[2026-03-18 23:56:07] WARNING: Undefined variable $baseUrl in C:\Users\RZHPDST\Downloads\reseller-website\includes\header.php on line 17 (URL: /upgrade.php, Method: GET, IP: ::1)
+[18-Mar-2026 23:56:07 UTC] PHP Deprecated:  Constant E_STRICT is deprecated since 8.4, the error level was removed in C:\Users\RZHPDST\Downloads\reseller-website\includes\error-handler.php on line 63
+[2026-03-18 23:56:07] WARNING: Undefined array key "QUERY_STRING" in C:\Users\RZHPDST\Downloads\reseller-website\includes\header.php on line 17 (URL: /upgrade.php, Method: GET, IP: ::1)
